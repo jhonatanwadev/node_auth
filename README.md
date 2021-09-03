@@ -1,4 +1,4 @@
-# node_auth
+# Node Authenticate
 API de Autenticação NodeJS
 
 Banco de dados PostgreSQL
