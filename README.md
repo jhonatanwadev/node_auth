@@ -9,7 +9,7 @@ Banco de dados PostgreSQL
 # Rota de visualização ( para fins de teste do middleware )
 
 
-Utilizado ? 
+Utilizado
 
 - JWT
 - Express
